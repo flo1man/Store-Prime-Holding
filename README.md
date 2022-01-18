@@ -1,2 +1,2 @@
 # Store-Prime-Holding
- Task fro pre-selection Phase
+Task for pre-selection Phase | Prime Holding
