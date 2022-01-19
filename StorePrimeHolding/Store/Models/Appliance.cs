@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Store
 {
-    class Appliance : Product
+    public class Appliance : Product
     {
         private string model;
         private double weight;
