@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Store
 {
-    class Beverage : PerishableProduct
+    public class Beverage : PerishableProduct
     {
         public Beverage(string name, string brand, decimal price,
             DateTime expirationDate)
