@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Store
 {
-    class Cloth : Product
+    public class Cloth : Product
     {
         private string color;
 
